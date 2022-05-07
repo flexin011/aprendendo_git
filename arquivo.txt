@@ -1,0 +1,44 @@
+Sprint: 
+O que é sprint?
+O sprint é um conceito utilizado no Scrum — metodologia de gerenciamento de projetos bastante usada por setores como o de software, mas que também pode ser aplicada em diversas outras áreas. Pode-se dizer que o sprint é, na verdade, o conceito principal do Scrum. Isso porque é nele que serão discutidas as etapas, avanços e melhorias de um projeto, chegando-se, então, ao melhor produto final possível.
+Com o objetivo de otimizar entregas, o sprint corresponde aos períodos, nos quais as atividades pré-definidas têm de ser cumpridas. Em outras palavras, os sprints podem ser definidos como cada uma das fases de um projeto, estipuladas em espaços definidos de tempo.
+
+Product Backlog:  
+O que é um Product Backlog?
+•	Product backlog — registro das áreas que serão desenvolvidas no projeto;
+
+Sprint Planning:
+
+O que é o planejamento de sprint?
+O planejamento do sprint é um evento no scrum que inicia o sprint. O objetivo do planejamento do sprint é definir o que pode ser entregue no sprint e como esse trabalho vai ser alcançado. O planejamento do sprint é feito em colaboração com toda a equipe Scrum.
+
+
+Sprint Backlog:
+O que é o Sprint Backlog?
+Basicamente, o Sprint Backlog é uma lista de atividades que precisam ser feitas durante uma Sprint.
+No início de cada Sprint, olha-se para o Product Backlog e “puxa-se” o que será feito no Sprint. Essas “histórias” do Product Backlog são agora desmembradas em atividades para serem executadas no Sprint (Sprint Tasks).
+Evidentemente, é um aspecto crucial, pois indica todas as entregas a serem feitas. Ou seja, além de ser uma forma de organizar as tarefas, são marcos que permitem controlar o andamento do projeto em cada Sprint.
+Daily Meeting:
+O que é Daily Meeting?
+A famosa Daily Scrum, também conhecida por Reuniões diárias, Daily Meeting, Stand-Up Meeting, Daily Stand-Up ou até mesmo Scrum Diário é uma reunião diária, de 15 minutos, para discutir o que foi feito, qual o plano para as próximas 24 horas e o que tanto está impedindo o time de avançar.
+
+Sprint Review:
+O Que é Sprint Review?
+ Como mencionamos acima a metodologia Scrum divide o trabalho em ciclos conhecidos como Sprint. Ao final de cada ciclo é realizada uma reunião denominada Sprint Review em que é feita a demonstração de tudo o que foi desenvolvido até aquele momento. Participam dessa reunião, em geral, o Product Owner (indivíduo que define as tarefas a serem realizadas), Scrum Master (facilitador) e stakeholders do cliente.
+
+Retrospectiva da Sprint:
+
+O Que é Retrospectiva da Sprint?
+A Retrospectiva da Sprint (ou Sprint Retrospective) é o evento que fecha a Sprint que é um ciclo de desenvolvimento de produto no Scrum. Esse é o momento no qual o time se dedica à inspecionar o seu trabalho, avaliando como foi a última Sprint e cria um plano de ação para a próxima. A Retrospectiva é aquele evento clássico de melhoria contínua que também é visto em diversas metodologias, processos e frameworks. Para uma Sprint de 30 dias, a Retro tem um timebox, ou seja, um período máximo de 3 horas, todo o Time Scrum deve participar (Product Owner, Scrum Master e Development Team) e três macro-temas são avaliados.
+
+Scrum Master:
+O que é Scrum Master?
+Scrum Master Ele é responsável para que o scrum esteja sendo aplicado da maneira correta e impedindo interferências externas. Papel de tamanha importância, pois é ele que mostra pro time a importância de seguir método ágil.
+
+Product Owner:
+
+O que é Product Owner?
+
+•	Product Owner (PO) — dono do projeto;
+
+
